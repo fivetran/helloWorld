@@ -1,4 +1,4 @@
-    *.class
+*.class
 deploy/
 .DS_Store
 .idea
